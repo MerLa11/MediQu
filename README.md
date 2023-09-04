@@ -1,0 +1,2 @@
+# MediQu
+a medical website
